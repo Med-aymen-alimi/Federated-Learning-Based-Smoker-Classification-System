@@ -1,4 +1,4 @@
-# Federated Learning for Smoker Classification
+# Federated Learning–Based Smoker Classification System
 
 ## Overview
 This project implements a Federated Learning system to train a machine learning model for smoker classification while preserving data privacy. Instead of pooling sensitive data in a central server, the training is distributed across multiple clients, each having their own local dataset. Model updates (weights) are shared and aggregated centrally, enabling collaborative training without exposing raw data.
