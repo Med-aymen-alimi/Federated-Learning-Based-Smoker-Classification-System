@@ -1,5 +1,3 @@
----
-
 # Federated Learning–Based Smoker Classification System
 
 ## Overview
